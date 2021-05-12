@@ -1,0 +1,12 @@
+gradio
+sumy
+transformers
+bert-extractive-summarizer 
+sentencepiece
+Summarizer
+pipeline
+AutoModelWithLMHead
+AutoTokenizer
+AutoModelForCausalLM
+AutoModelForSeq2SeqLM
+nltk
